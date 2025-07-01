@@ -1,16 +1,16 @@
 ## Hi there 👋
+# I'm Zahed Hussain
 
-<!--
-**Zahed30/Zahed30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Final-year BCA student aiming for an SDE role by Feb 2026  
+💻 Learning: Java, DSA, Backend Dev, GitHub, and AI Tools  
+🚀 Goal: Get placed in a high-package MNC or startup
 
-Here are some ideas to get you started:
+## 🔥 My Current Work
+- Java learning repo: [java-by-zahed](https://github.com/Zahed30/java-by-zahed)
+- DSA + Backend Projects coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Connect with Me
+- 📧 Email: zahed.dev@gmail.com
+- 🔗 LinkedIn: *Coming soon*
+
+⭐ Follow my journey on GitHub!
