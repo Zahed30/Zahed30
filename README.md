@@ -10,7 +10,7 @@
 - DSA + Backend Projects coming soon!
 
 ## 📌 Connect with Me
-- 📧 Email: zahed.dev@gmail.com
+- 📧 Email: zahedhussain1926@gmail.com
 - 🔗 LinkedIn: *Coming soon*
 
 ⭐ Follow my journey on GitHub!
