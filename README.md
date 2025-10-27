@@ -11,6 +11,6 @@
 
 ## 📌 Connect with Me
 - 📧 Email: zahedhussain1926@gmail.com
-- 🔗 LinkedIn: *Coming soon*
+- 🔗 LinkedIn: www.linkedin.com/in/zahedhussain30
 
 ⭐ Follow my journey on GitHub!
