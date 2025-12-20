@@ -7,6 +7,7 @@
 
 ## 🔥 My Current Work
 - Java learning repo: [java-by-zahed](https://github.com/Zahed30/java-by-zahed)
+- DSA learning repo : [dsa-by-zahed](https://github.com/Zahed30/dsa-by-zahed)
 - DSA + Backend Projects coming soon!
 
 ## 📌 Connect with Me
